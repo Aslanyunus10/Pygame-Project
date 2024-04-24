@@ -23,12 +23,5 @@ This is a simple helicopter game implemented in Python using the Pygame library.
 - Score tracking to keep track of your progress.
 - High score display to challenge yourself to beat your best score.
 
-## Requirements
 
-- Python 3.x
-- Pygame library
-
-## Installation
-
-1. Clone the repository to your local machine:
 
